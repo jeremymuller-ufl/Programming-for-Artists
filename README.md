@@ -1,3 +1,3 @@
 ## Programming for Artists
 
-Visit [this site](jeremymuller-ufl.github.io/programming-for-artists/) to see all the code from class in action.
+Visit [this site](https://jeremymuller-ufl.github.io/Programming-for-Artists/) to see all the code from class in action.
