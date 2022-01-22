@@ -2,7 +2,7 @@
 
 You can use the [editor on GitHub](https://github.com/jeremymuller-ufl/Programming-for-Artists/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-- [Week 2 code](https://github.com/jeremymuller-ufl/Programming-for-Artists/tree/gh-pages/Week2)
+- [Week 2](https://jeremymuller-ufl.github.io/Programming-for-Artists/Week2)
 - [Week 3 code](https://github.com/jeremymuller-ufl/Programming-for-Artists/tree/gh-pages/Week3)
 
 
