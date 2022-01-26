@@ -6,7 +6,7 @@
 
 #### Week 2
 - [bouncing](https://jeremymuller-ufl.github.io/Programming-for-Artists/Week2/bouncing)
-- [circles](https://jeremymuller-ufl.github.io/Programming-for-Artists/Week2/circes)
+- [circles](https://jeremymuller-ufl.github.io/Programming-for-Artists/Week2/circles)
 - [mapping-mouse](https://jeremymuller-ufl.github.io/Programming-for-Artists/Week2/mapping-mouse)
 - [random-walk](https://jeremymuller-ufl.github.io/Programming-for-Artists/Week2/random-walk)
 
