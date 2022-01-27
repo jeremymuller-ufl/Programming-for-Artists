@@ -14,5 +14,10 @@
 - [manycircles](https://jeremymuller-ufl.github.io/Programming-for-Artists/Week3/manycircles)
 - [rotatingShapes](https://jeremymuller-ufl.github.io/Programming-for-Artists/Week3/rotatingShapes)
 
+#### Week 4
+- [arrays](https://jeremymuller-ufl.github.io/Programming-for-Artists/Week4/arrays)
+- [gradient-basicvertex](https://jeremymuller-ufl.github.io/Programming-for-Artists/Week4/gradient-basicvertex)
+- [using-vectors](https://jeremymuller-ufl.github.io/Programming-for-Artists/Week4/using-vectors)
+
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
