@@ -18,8 +18,8 @@
 - [arrays](https://jeremymuller-ufl.github.io/Programming-for-Artists/Week4/arrays)
 - [gradient-basicvertex](https://jeremymuller-ufl.github.io/Programming-for-Artists/Week4/gradient-basicvertex)
 - [using-vectors](https://jeremymuller-ufl.github.io/Programming-for-Artists/Week4/using-vectors)
-- [using-vectors](https://jeremymuller-ufl.github.io/Programming-for-Artists/Week4/using-while-loop)
-- [using-vectors](https://jeremymuller-ufl.github.io/Programming-for-Artists/Week4/vertex-many)
+- [using-while-loop](https://jeremymuller-ufl.github.io/Programming-for-Artists/Week4/using-while-loop)
+- [vertex-many](https://jeremymuller-ufl.github.io/Programming-for-Artists/Week4/vertex-many)
 
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
