@@ -1,5 +1,6 @@
 let pos = [];
 let radius = 10;
+let originalRadius = radius;
 
 function setup() {
     createCanvas(400, 400);
@@ -29,6 +30,8 @@ function mouseClicked() {
 }
 
 function keyPressed() {
-    if (key == 'd')
+    if (key == 'd') {
         pos.pop();
+        radius = originalRadius;
+    }
 }
