@@ -21,5 +21,13 @@
 - [using-while-loop](https://jeremymuller-ufl.github.io/Programming-for-Artists/Week4/using-while-loop)
 - [vertex-many](https://jeremymuller-ufl.github.io/Programming-for-Artists/Week4/vertex-many)
 
+#### Week 5
+- [10Print](https://jeremymuller-ufl.github.io/Programming-for-Artists/Week5/10Print)
+- [Grid using nested For loops grid](https://jeremymuller-ufl.github.io/Programming-for-Artists/Week5/grid-nestedforloops)
+- [PerlinNoise](https://jeremymuller-ufl.github.io/Programming-for-Artists/Week5/PerlinNoise)
+- [PerlinNoiseWalker](https://jeremymuller-ufl.github.io/Programming-for-Artists/Week5/PerlinNoiseWalker)
+- [RotatingSquares](https://jeremymuller-ufl.github.io/Programming-for-Artists/Week5/RotatingSquares)
+
+
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
