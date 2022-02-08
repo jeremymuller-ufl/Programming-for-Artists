@@ -28,6 +28,11 @@
 - [PerlinNoiseWalker](https://jeremymuller-ufl.github.io/Programming-for-Artists/Week5/PerlinNoiseWalker)
 - [RotatingSquares](https://jeremymuller-ufl.github.io/Programming-for-Artists/Week5/RotatingSquares)
 
+#### Week 6
+- [manyparticles](https://jeremymuller-ufl.github.io/Programming-for-Artists/Week6/manyparticles)
+- [particles-lifespan](https://jeremymuller-ufl.github.io/Programming-for-Artists/Week6/particles-lifespan)
+- [using-images](https://jeremymuller-ufl.github.io/Programming-for-Artists/Week6/using-images)
+
 
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
