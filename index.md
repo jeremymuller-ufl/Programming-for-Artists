@@ -32,6 +32,7 @@
 - [manyparticles](https://jeremymuller-ufl.github.io/Programming-for-Artists/Week6/manyparticles)
 - [particles-lifespan](https://jeremymuller-ufl.github.io/Programming-for-Artists/Week6/particles-lifespan)
 - [using-images](https://jeremymuller-ufl.github.io/Programming-for-Artists/Week6/using-images)
+- [rotating-shapes](https://jeremymuller-ufl.github.io/Programming-for-Artists/Week6/rotating-shapes)
 
 
 
