@@ -29,6 +29,8 @@
 - [RotatingSquares](https://jeremymuller-ufl.github.io/Programming-for-Artists/Week5/RotatingSquares)
 
 #### Week 6
+- [collision-detection](https://jeremymuller-ufl.github.io/Programming-for-Artists/Week6/collision-detection)
+- [color-image](https://jeremymuller-ufl.github.io/Programming-for-Artists/Week6/color-image)
 - [manyparticles](https://jeremymuller-ufl.github.io/Programming-for-Artists/Week6/manyparticles)
 - [particles-lifespan](https://jeremymuller-ufl.github.io/Programming-for-Artists/Week6/particles-lifespan)
 - [using-images](https://jeremymuller-ufl.github.io/Programming-for-Artists/Week6/using-images)
