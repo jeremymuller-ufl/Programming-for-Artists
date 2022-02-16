@@ -11,7 +11,7 @@ let img;
 let x = 0;
 
 function preload() {
-    img = loadImage("../_img/sanibelflower.jpg");
+    img = loadImage("_img/sanibelflower.jpg");
 }
 
 function setup() {
