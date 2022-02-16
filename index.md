@@ -36,6 +36,12 @@
 - [using-images](https://jeremymuller-ufl.github.io/Programming-for-Artists/Week6/using-images)
 - [rotating-shapes](https://jeremymuller-ufl.github.io/Programming-for-Artists/Week6/rotating-shapes)
 
+#### Week 7
+These examples share a single `p5.min.js` file and a single image folder. Check the `index.html` file for how this is linked.
+- [2D-PerlinNoise](https://jeremymuller-ufl.github.io/Programming-for-Artists/Week7/2D-PerlinNoise) (slow)
+- [2D-PerlinNoise-PixelArray](https://jeremymuller-ufl.github.io/Programming-for-Artists/Week7/2D-PerlinNoise-PixelArray) (fast)
+- [pointillistic](https://jeremymuller-ufl.github.io/Programming-for-Artists/Week7/pointillistic)
+
 
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
