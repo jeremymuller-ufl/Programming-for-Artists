@@ -42,6 +42,7 @@ These examples share a single `p5.min.js` file and a single image folder. Check 
 - [2D-PerlinNoise-PixelArray](https://jeremymuller-ufl.github.io/Programming-for-Artists/Week7/2D-PerlinNoise-PixelArray) (fast)
 - [pointillistic](https://jeremymuller-ufl.github.io/Programming-for-Artists/Week7/pointillistic)
 - [spotlight](https://jeremymuller-ufl.github.io/Programming-for-Artists/Week7/spotlight)
+- [border](https://jeremymuller-ufl.github.io/Programming-for-Artists/Week7/border)
 
 
 
