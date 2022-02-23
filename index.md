@@ -44,6 +44,11 @@ These examples share a single `p5.min.js` file and a single image folder. Check 
 - [spotlight](https://jeremymuller-ufl.github.io/Programming-for-Artists/Week7/spotlight)
 - [border](https://jeremymuller-ufl.github.io/Programming-for-Artists/Week7/border)
 
+#### Week 8
+These examples share a single `p5.min.js` file and a single image folder. Check the `index.html` file for how this is linked.
+- [using-API](https://jeremymuller-ufl.github.io/Programming-for-Artists/Week8/using-API)
+- [using-API-lists](https://jeremymuller-ufl.github.io/Programming-for-Artists/Week8/using-API-lists)
+- [using-text](https://jeremymuller-ufl.github.io/Programming-for-Artists/Week8/using-text)
 
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
