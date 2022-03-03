@@ -50,5 +50,12 @@ These examples share a single `p5.min.js` file and a single image folder. Check 
 - [using-API-lists](https://jeremymuller-ufl.github.io/Programming-for-Artists/Week8/using-API-lists)
 - [using-text](https://jeremymuller-ufl.github.io/Programming-for-Artists/Week8/using-text)
 
+#### Week 9
+These examples share a single `p5.min.js` and `p5.sound.min.js` file and a single image folder. Check the `index.html` file for how this is linked.
+- [basic-video-capture](https://jeremymuller-ufl.github.io/Programming-for-Artists/Week9/basic-video-capture)
+- [using-DOM](https://jeremymuller-ufl.github.io/Programming-for-Artists/Week9/using-DOM)
+- [video-capture](https://jeremymuller-ufl.github.io/Programming-for-Artists/Week9/video-capture)
+- [video-sound](https://jeremymuller-ufl.github.io/Programming-for-Artists/Week9/video-sound)
+
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
