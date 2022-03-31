@@ -67,5 +67,13 @@ These examples use the p5js CDN from: https://cdnjs.com/libraries/p5.js
   - [see the code](https://glitch.com/edit/#!/neat-sulfuric-accelerator)  
 - [webgl](https://jeremymuller-ufl.github.io/Programming-for-Artists/Week11-12/webgl)
 
+#### Week 13
+These examples use the p5js and p5Sound CDN from: https://cdnjs.com/libraries/p5.js
+- [using-sound-noise](https://jeremymuller-ufl.github.io/Programming-for-Artists/Week13/using-sound-noise)
+- [using-sound-oscillators](https://jeremymuller-ufl.github.io/Programming-for-Artists/Week13/using-sound-oscillators)
+- [using-sound-synth](https://jeremymuller-ufl.github.io/Programming-for-Artists/Week13/using-sound-synth)
+- [using-sound-visualizing](https://jeremymuller-ufl.github.io/Programming-for-Artists/Week13/using-sound-visualizing)
+- [webgl-again](https://jeremymuller-ufl.github.io/Programming-for-Artists/Week13/webgl-again)
+
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
