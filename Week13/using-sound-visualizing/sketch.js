@@ -28,7 +28,7 @@ function setup() {
 
     radiohead.disconnect();
 
-    lop_filter = new p5.Filter('bandpass');
+    lop_filter = new p5.Filter('lowpass');
     lop_filter.res(5);
     radiohead.connect(lop_filter);
     lop_filter.disconnect();
