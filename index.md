@@ -75,5 +75,13 @@ These examples use the p5js and p5Sound CDN from: https://cdnjs.com/libraries/p5
 - [using-sound-visualizing](https://jeremymuller-ufl.github.io/Programming-for-Artists/Week13/using-sound-visualizing)
 - [webgl-again](https://jeremymuller-ufl.github.io/Programming-for-Artists/Week13/webgl-again)
 
+#### Week 14
+
+#### Week 15
+- [easing](https://jeremymuller-ufl.github.io/Programming-for-Artists/Week15/easing)
+- [glyphs](https://jeremymuller-ufl.github.io/Programming-for-Artists/Week15/glyphs)
+- [gravity](https://jeremymuller-ufl.github.io/Programming-for-Artists/Week15/gravity)
+- [physics-forces](https://jeremymuller-ufl.github.io/Programming-for-Artists/Week15/physics-forces)
+- [physics-forces-3D](https://jeremymuller-ufl.github.io/Programming-for-Artists/Week15/physics-forces-3D)
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
